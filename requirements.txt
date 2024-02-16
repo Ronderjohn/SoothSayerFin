@@ -1,0 +1,6 @@
+yfinance
+pandas
+statistics
+tabulate
+matplotlib
+datetime
